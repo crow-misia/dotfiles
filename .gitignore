@@ -12,3 +12,31 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
+
+# editor cache
+*.swp
+*.orig
+
+# OS cache file
+.DS_Store
+Thumbs.db
+
+# IDE meta data
+## IntelliJ
+.idea/
+out/
+*.iml
+*.ipr
+*.iws
+
+## Eclipse
+.settings/
+.classpath
+.project
+
+## Maven
+target/
+
+## gradle
+.gradle/
+build/
